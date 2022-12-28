@@ -70,16 +70,4 @@
                             </td>
                   
         
-    body{
-    background-color: azure;
-    background-size: cover;
-}
-table{
-    color: rgb(85, 3, 207);
-    font-size: 40px;
-
-}
-h1{
-    color:rgb(5, 131, 5);font-family: "element";
-    font-size: 36px;
-}
+  
