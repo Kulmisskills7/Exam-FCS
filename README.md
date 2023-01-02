@@ -11,7 +11,7 @@
                     <th>Buuntada</th>
                     <th>Darajo</th>
                     <th>Fasalka</th>
-                </tr>
+                
                 <tr>
                     <td> Abdishakur Omar Ali</td>
                    
@@ -19,7 +19,7 @@
                         <td>  A+
                         <td> COMPUTER</td>
                     </td>
-                </tr>
+                
             
                 <tr>
                     <td> Sadak Abdullahi Ahmed </td>
@@ -28,7 +28,7 @@
                     </td>
                     <td> COMPUTER
                     </td>
-                </tr>
+                
                 <tr>
                     <td> Abdirahman Ahmed Ilmi </td>
                     <td>Lama Hayo  
@@ -36,7 +36,7 @@
                     </td>
                     <td> COMPUTER
                     </td>
-                </tr>
+            
                
                     <tr>
                         <td>Hassan Mohamed Yusuf </td>
@@ -44,7 +44,7 @@
                         <td> A+
                         <td> COMPUTER
                         </td>
-                    </tr>
+                    
                    
                     <tr>
                         <td> Mohamed Isse Abdullahi</td>
@@ -52,7 +52,7 @@
                         <td> --
                         <td> COMPUTER
                         </td>
-                    </tr>
+                    
                     
                         <tr>
                             <td> Sabir Abdi Aziz Mohamed</td>
@@ -60,7 +60,7 @@
                             <td> B+
                             <td> COMPUTER
                             </td>
-                        </tr>
+                        
                     
                         <tr>
                             <td> Muqtar Ali Adam</td>
