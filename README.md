@@ -1,73 +1,63 @@
 
 <html>
-    <title> Natiijo</title>
+    
     <head>
         <link rel="stylesheet" href="table.css"/>
         <body>  
-            <h1> NATIIJADA IMTIXAANKA</h1>
+            <h1> Hassan Mohamud Hassan</h1>
+            <h2> ID: 006</h2>
             <table border="25">
                 <tr>
-                    <th>Magaca Ardayga </th>
+                    <th>Maadada </th>
                     <th>Buuntada</th>
                     <th>Darajo</th>
                     <th>Fasalka</th>
-                
+                </tr>
                 <tr>
-                    <td> Abdishakur Omar Ali</td>
+                    <td> First Aid</td>
                    
-                    <td> 100 
-                        <td>  A+
-                        <td> COMPUTER</td>
+                    <td> 82
+                        <td>  B
+                        <td> CAAFIMAAD</td>
                     </td>
-                
+                </tr>
             
                 <tr>
-                    <td> Sadak Abdullahi Ahmed </td>
-                    <td>   90
-                        <td>A  
+                    <td> CDC </td>
+                    <td>   65 
+                        <td>D+  
                     </td>
-                    <td> COMPUTER
+                    <td> CAAFIMAAD
                     </td>
-                
+                </tr>
                 <tr>
-                    <td> Abdirahman Ahmed Ilmi </td>
+                    <td> ANATOMY </td>
                     <td>Lama Hayo  
                         <td> Z
                     </td>
-                    <td> COMPUTER
+                    <td> CAAFIMAAD
                     </td>
-            
+                </tr>
                
                     <tr>
-                        <td>Hassan Mohamed Yusuf </td>
-                        <td>100</td>
-                        <td> A+
-                        <td> COMPUTER
+                        <td>PHYSIOLOGY </td>
+                        <td>Lama hayo</td>
+                        <td> Z
+                        <td> CAAFIMAAD
                         </td>
-                    
-                   
+                    </tr>
                     <tr>
-                        <td> Mohamed Isse Abdullahi</td>
-                        <td>-------</td>
-                        <td> --
-                        <td> COMPUTER
+                        <td> PHARMACOLOGY</td>
+                        <td>Lama Hayo</td>
+                        <td> Z
+                        <td> CAAFIMAAD
                         </td>
+                    </tr>
                     
-                    
-                        <tr>
-                            <td> Sabir Abdi Aziz Mohamed</td>
-                            <td>85</td>
-                            <td> B+
-                            <td> COMPUTER
+                    <tr>
+                            <td> NUTRITION</td>
+                            <td>Lama Hayo</td>
+                            <td> Z
+                            <td> CAAFIMAAD
                             </td>
-                        
-                    
-                        <tr>
-                            <td> Muqtar Ali Adam</td>
-                            <td>80</td>
-                            <td> B
-                            <td> COMPUTER
-                            </td>
-                  
-        
-  
+                        </tr>
